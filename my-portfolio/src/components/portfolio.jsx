@@ -219,7 +219,7 @@ const Portfolio = () => {
               </div>
             </div>
             <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-blue-400 via-cyan-400 to-blue-400 bg-clip-text text-transparent animate-fade-in">
-              Krishan Pasindu
+              KRISHAN PASINDU
             </h1>
             <p className="text-xl md:text-2xl mb-8 text-gray-300 max-w-2xl mx-auto">
               Electrical Engineering student focused on Power Systems and Energy Management.
